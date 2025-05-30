@@ -7,7 +7,7 @@
 - 💡 **Languages**: C, C++, Java, JavaScript, C# (.NET), SQL
 - 🌐 **Web Development**: HTML, CSS, JavaScript
 - 🖥️ **Frameworks**: .NET, basic familiarity with web frameworks and backend development
-- 🗃️ **Databases**: SQL Server, MySQL
+- 🗃️ **Databases**: SQL Server
 
 ## 🚀 About Me
 
@@ -19,10 +19,7 @@ I am currently a student and enthusiastic learner, always eager to explore new t
 
 ## 📫 Contact Me
 
-- 📧 Email: [your_email@example.com] (replace with your actual email)
-- 🌍 Portfolio/GitHub Pages: (optional link here)
-- 🔗 LinkedIn: (optional link here)
-
+- 📧 Email: [tmnduy.it@gmail.com] 
 ---
 
 Thanks for visiting my profile! 😊
