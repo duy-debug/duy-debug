@@ -1,15 +1,28 @@
-## Hi 👋, I'm Tran Mai Ngoc Duy
-<!--
-**duy-debug/duy-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Tran Mai Ngoc Duy!
 
-Here are some ideas to get you started:
+🎓 I'm a passionate and motivated developer with a strong foundation in both software development and web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Programming Languages & Technologies
+
+- 💡 **Languages**: C, C++, Java, JavaScript, C# (.NET), SQL
+- 🌐 **Web Development**: HTML, CSS, JavaScript
+- 🖥️ **Frameworks**: .NET, basic familiarity with web frameworks and backend development
+- 🗃️ **Databases**: SQL Server, MySQL
+
+## 🚀 About Me
+
+I am currently a student and enthusiastic learner, always eager to explore new technologies and improve my problem-solving skills. I enjoy building small applications and continuously learning through projects and collaboration.
+
+- 📚 Learning new skills every day
+- 🌱 Currently diving deeper into backend development and database systems
+- 🤝 Open to collaboration on student projects and open-source contributions
+
+## 📫 Contact Me
+
+- 📧 Email: [your_email@example.com] (replace with your actual email)
+- 🌍 Portfolio/GitHub Pages: (optional link here)
+- 🔗 LinkedIn: (optional link here)
+
+---
+
+Thanks for visiting my profile! 😊
