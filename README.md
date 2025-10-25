@@ -4,10 +4,10 @@
 
 ## 💻 Programming Languages & Technologies
 
-- 💡 **Languages**: C, C++, Java, C# (.NET), PHP, SQL
+- 💡 **Languages**: C, C++, Java, C# (.NET), PHP
 - 🌐 **Web Development**: HTML, CSS, JavaScript, ASP.NET MVC
 - 🖥️ **Frameworks**: .NET, basic familiarity with web frameworks and backend development
-- 🗃️ **Databases**: SQL Server
+- 🗃️ **Databases**: SQL Server, MySQL
 
 ## 🚀 About Me
 
