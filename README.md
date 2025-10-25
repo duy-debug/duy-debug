@@ -5,7 +5,7 @@
 ## 💻 Programming Languages & Technologies
 
 - 💡 **Languages**: C, C++, Java, C# (.NET), PHP, SQL
-- 🌐 **Web Development**: HTML, CSS, JavaScript
+- 🌐 **Web Development**: HTML, CSS, JavaScript, ASP.NET MVC
 - 🖥️ **Frameworks**: .NET, basic familiarity with web frameworks and backend development
 - 🗃️ **Databases**: SQL Server
 
