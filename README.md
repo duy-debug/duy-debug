@@ -11,7 +11,7 @@
 </div>
 <div align="center">
   
-  ### 🎉 Cảm ơn bạn đã ghé thăm! Chúc bạn một ngày tuyệt vời! 
+  ### 🎉 Thanks for visiting! Have a great day!
   
   ![Bye](https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif)
   
