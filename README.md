@@ -3,59 +3,7 @@
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7B93E&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hello%2C+World!;%F0%9F%92%BB+Code+l%C3%A0+ngh%E1%BB%87+thu%E1%BA%ADt;%F0%9F%90%9B+Bug+l%C3%A0+b%E1%BA%A1n+th%C3%A2n;%E2%98%95+C%C3%A0+ph%C3%AA+l%C3%A0+nhi%C3%AAn+li%E1%BB%87u)
-
 </div>
-
----
-
-## 🎭 Về Tui Nè
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "YOUR_NAME"
-        self.role = "Student Developer 🎓"
-        self.language_spoken = ["vi_VN", "en_US"]
-        self.code = ["Python", "C#", "JavaScript", "SQL"]
-        self.current_focus = "Building awesome stuff! 🚀"
-        self.fun_fact = "Tui debug bằng console.log và không xấu hổ về điều đó 😎"
-    
-    def say_hi(self):
-        print("Cảm ơn bạn đã ghé thăm profile của tui! 💖")
-
-me = Developer()
-me.say_hi()
-```
-
----
-
-## 📊 GitHub Stats Của Tui
-
-<div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  
-  <!-- Most Used Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🛠️ Tech Stack Của Tui
-
-<div align="center">
 
 ### 💻 Ngôn Ngữ Lập Trình
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -97,16 +45,6 @@ me.say_hi()
   [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_USERNAME)
 
 </div>
-
----
-
-## 🎯 Hiện Tại Tui Đang...
-
-- 🔭 Làm việc với: **ASP.NET MVC Projects**
-- 🌱 Học thêm về: **Web Development & Database Design**
-- 💬 Hỏi tui về: **Python, C#, SQL, hoặc bất cứ thứ gì!**
-- 😄 Pronouns: **Tui/Mình/Tớ**
-- ⚡ Fun fact: **Tui tin rằng mỗi bug là một cơ hội để học! 🐛➡️🦋**
 
 ---
 
