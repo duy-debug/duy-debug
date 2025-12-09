@@ -1,4 +1,4 @@
-# 👋 Xin chào! Tui là [YOUR_NAME] đây! 
+# 👋 Hi! I'm Tran Mai Ngoc Duy! 
 
 <div align="center">
   
