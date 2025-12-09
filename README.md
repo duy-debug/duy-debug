@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Tran Mai Ngoc Duy! 
+# 👋 Hi there, I'm Tran Mai Ngoc Duy
 
 <div align="center">
   
