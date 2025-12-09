@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/YOUR_FACEBOOK](https://www.facebook.com/duydangcap))
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duydangcap)
 </div>
 <div align="center">
   
