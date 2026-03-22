@@ -12,4 +12,3 @@
 
   ### 🎉 Thanks for visiting! Have a great day!
 </div>
- giúp tôi viết sửa lại file readme  cho đẹp và chuyên nghiệp nó có thể thống kê ngôn ngữ
