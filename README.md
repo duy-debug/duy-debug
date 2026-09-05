@@ -11,7 +11,6 @@
 
 </div>
 
-## Focus
 
 ## Focus
 
