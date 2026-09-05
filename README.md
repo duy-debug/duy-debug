@@ -11,20 +11,22 @@
 
 </div>
 
-
 ## Focus
 
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-111111?style=for-the-badge&logo=openai&logoColor=white)
 
 ![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge&logo=databricks&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-111111?style=for-the-badge&logo=openai&logoColor=white)
-
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-0A66C2?style=for-the-badge&logo=github&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-FF5A5F?style=for-the-badge&logo=docker&logoColor=white)
 
-![Production AI](https://img.shields.io/badge/Production%20AI-2E8B57?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Production AI](https://img.shields.io/badge/Production%20AI-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## Contact
 
- **Email:** tmnduy.it@gmail.com
+📧 **Email:** [tmnduy.it@gmail.com](mailto:tmnduy.it@gmail.com)
