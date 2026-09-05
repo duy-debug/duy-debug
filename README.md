@@ -13,6 +13,8 @@
 
 ## Focus
 
+<div align="center">
+
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -27,6 +29,12 @@
 ![MLOps](https://img.shields.io/badge/MLOps-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Production AI](https://img.shields.io/badge/Production%20AI-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+</div>
+
 ## Contact
 
+<div align="center">
+
 📧 **Email:** [tmnduy.it@gmail.com](mailto:tmnduy.it@gmail.com)
+
+</div>
