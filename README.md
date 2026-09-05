@@ -13,10 +13,18 @@
 
 ## Focus
 
-- Artificial Intelligence & Machine Learning
-- RAG & AI Agents
-- Software Engineering
-- MLOps & Production AI
+## Focus
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge&logo=databricks&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-111111?style=for-the-badge&logo=openai&logoColor=white)
+
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-0A66C2?style=for-the-badge&logo=github&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-FF5A5F?style=for-the-badge&logo=docker&logoColor=white)
+
+![Production AI](https://img.shields.io/badge/Production%20AI-2E8B57?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## Contact
 
