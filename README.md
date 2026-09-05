@@ -1,13 +1,13 @@
+<div align="center">
+
 # 👋 Hi there, I'm Tran Mai Ngoc Duy
 
-Information Technology Student at Nha Trang University  
-AI, Machine Learning & Software Engineering
+**Information Technology Student at Nha Trang University**  
+**AI, Machine Learning & Software Engineering**
 
 > Building practical systems, learning deeply, and improving one project at a time.
 
-<div align="center">
-
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7B93E&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hello%2C+World!;%F0%9F%92%BB+Code+l%C3%A0+ngh%E1%BB%87+thu%E1%BA%ADt;%F0%9F%90%9B+Bug+l%C3%A0+b%E1%BA%A1n+th%C3%A2n;%E2%98%95+C%C3%A0+ph%C3%AA+l%C3%A0+nhi%C3%AAn+li%E1%BB%87u)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7B93E&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hello%2C+World!;%F0%9F%92%BB+Code+l%C3%A0+ngh%E1%BB%87+thu%E1%BA%ADt;%F0%9F%90%9B+Bug+l%C3%A0+b%E1%BA%A1n+th%C3%A2n;%E2%98%95+C%C3%A0+ph%C3%AA+l%C3%A0+nhi%C3%AAn+li%E1%BB%87u)
 
 </div>
 
@@ -20,4 +20,4 @@ AI, Machine Learning & Software Engineering
 
 ## Contact
 
-📧 tmnduy.it@gmail.com
+ **Email:** tmnduy.it@gmail.com
